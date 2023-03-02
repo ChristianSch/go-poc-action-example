@@ -1,0 +1,8 @@
+name: Main
+on: [push]
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: PoC Action
+        uses: ChristianSch/go-poc-actiono@latest
