@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: PoC Action
-        uses: ChristianSch/go-poc-action@latest
+        uses: ChristianSch/go-poc-action@v1
